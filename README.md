@@ -52,4 +52,15 @@ It works like a **mini Wolfram Alpha engine (lite version)**.
 - Matplotlib (Graphs)  
 - Tkinter (GUI)  
 
---
+---
+
+---
+
+# ⚙️ Installation
+
+## Step 1: Clone Repository
+```bash
+git clone https://github.com/RobinChahal0010/AxiomEngine.git
+cd AxiomEngine
+#
+---
